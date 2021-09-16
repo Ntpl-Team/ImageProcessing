@@ -1,0 +1,11 @@
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\Project_ZoomImage.dll
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\Project_ZoomImage.pdb
+E:\Project_ZoomImage\Project_ZoomImage\obj\Debug\Project_ZoomImage.dll
+E:\Project_ZoomImage\Project_ZoomImage\obj\Debug\Project_ZoomImage.pdb
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\AForge.dll
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\AForge.Imaging.dll
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\AForge.Math.dll
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\AForge.xml
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\AForge.Imaging.xml
+E:\Project_ZoomImage\Project_ZoomImage\bin\Debug\AForge.Math.xml
+E:\Project_ZoomImage\Project_ZoomImage\obj\Debug\Project_ZoomImage.csprojResolveAssemblyReference.cache
