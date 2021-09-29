@@ -1,0 +1,21 @@
+D:\Office Work\Wine_Form\ImageWork\ImageWork\bin\Debug\ImageWork.exe.config
+D:\Office Work\Wine_Form\ImageWork\ImageWork\bin\Debug\ImageWork.exe
+D:\Office Work\Wine_Form\ImageWork\ImageWork\bin\Debug\ImageWork.pdb
+D:\Office Work\Wine_Form\ImageWork\ImageWork\obj\Debug\ImageWork.csprojResolveAssemblyReference.cache
+D:\Office Work\Wine_Form\ImageWork\ImageWork\obj\Debug\ImageWork.Form1.resources
+D:\Office Work\Wine_Form\ImageWork\ImageWork\obj\Debug\ImageWork.Properties.Resources.resources
+D:\Office Work\Wine_Form\ImageWork\ImageWork\obj\Debug\ImageWork.csproj.GenerateResource.Cache
+D:\Office Work\Wine_Form\ImageWork\ImageWork\obj\Debug\ImageWork.exe
+D:\Office Work\Wine_Form\ImageWork\ImageWork\obj\Debug\ImageWork.pdb
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\bin\Debug\ImageWork.exe.config
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\obj\Debug\ImageWork.exe
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\obj\Debug\ImageWork.pdb
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\obj\Debug\ImageWork.csprojResolveAssemblyReference.cache
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\obj\Debug\ImageWork.Form1.resources
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\obj\Debug\ImageWork.Properties.Resources.resources
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\obj\Debug\ImageWork.csproj.GenerateResource.Cache
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\bin\Debug\ImageWork.exe
+E:\Poulami\Git\28 Sep\ImageWork\ImageWork\bin\Debug\ImageWork.pdb
+E:\ImageWork\ImageWork\bin\Debug\ImageWork.exe.config
+E:\ImageWork\ImageWork\obj\Debug\ImageWork.exe
+E:\ImageWork\ImageWork\obj\Debug\ImageWork.pdb
